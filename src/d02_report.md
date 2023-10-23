@@ -1,4 +1,4 @@
-# Отчет о выполнении проекта D01 "Linux"
+# Отчет о выполнении проекта DO2 "Linux Network"
 
 > Copyright (с) 2022 Student of School 21: \
 > Yonn Argelia \
